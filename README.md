@@ -1,11 +1,9 @@
 Welcome to the exciting Mastermind Game!
 
-Project map:
-
-Player game module:
+To play execute:
 - master_play.py
 
-Algorythm game modules:
+To test 3 different :
 - master_automat_list.py - base time efficient algorythm
 - master_automat_encoder - upgraded list algorythm
 - master_automat_generator - memory efficient version of list algorythm
